@@ -1,0 +1,977 @@
+risczero:
+  author:
+    - Bruestle, Jeremy
+    - Gafni, Paul
+    - RISC Zero Team
+  date: 2023
+  title: "RISC Zero zkVM: Scalable, Transparent Arguments of RISC-V Integrity"
+  type: report
+  publisher: RISC Zero
+  url: "https://dev.risczero.com/proof-system-in-detail.pdf"
+
+sp1:
+  author: Roy, Uma
+  date: 2024-02-14
+  publisher: Succinct
+  title: "Introducing SP1: A Performant, 100% Open-Source, Contributor-Friendly zkVM"
+  type: article
+  url: "https://blog.succinct.xyz/introducing-sp1/"
+
+jolt2023:
+  author:
+    - Arun, Arasu
+    - Setty, Srinath
+    - Thaler, Justin
+  date: 2023
+  parent:
+    title: "Cryptology ePrint Archive"
+    type: repository
+  serial-number: "2023/1217"
+  title: "Jolt: SNARKs for Virtual Machines via Lookups"
+  type: article
+  url: "https://eprint.iacr.org/2023/1217"
+
+schwartz1980:
+  author:
+    - Schwartz, Jacob T.
+  date: 1980
+  doi: "10.1145/322217.322225"
+  page-range: 701-717
+  parent:
+    issue: 4
+    title: "Journal of the ACM"
+    type: periodical
+    volume: 27
+  title: "Fast Probabilistic Algorithms for Verification of Polynomial Identities"
+  type: article
+  url: "https://doi.org/10.1145/322217.322225"
+
+zippel1979:
+  author:
+    - Zippel, Richard E.
+  date: 1979
+  doi: "10.1007/3-540-09519-5_73"
+  page-range: 216-226
+  parent:
+    publisher: "Springer"
+    title: "Symbolic and Algebraic Computation — EUROSAM '79, Lecture Notes in Computer Science, vol. 72"
+    type: proceedings
+  title: "Probabilistic Algorithms for Sparse Polynomials"
+  type: article
+  url: "https://doi.org/10.1007/3-540-09519-5_73"
+
+zerocash:
+  author:
+    - Ben-Sasson, Eli
+    - Chiesa, Alessandro
+    - Garman, Christina
+    - Green, Matthew
+    - Miers, Ian
+    - Tromer, Eran
+    - Virza, Madars
+  date: 2014
+  doi: "10.1109/SP.2014.36"
+  note: |
+    Conference paper: http://zerocash-project.org/media/pdf/zerocash-oakland2014.pdf
+    Extended paper: http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf
+    Protocol specification: https://zips.z.cash/protocol/protocol.pdf
+  page-range: 459-474
+  parent:
+    publisher: "IEEE"
+    title: "Proceedings of the IEEE Symposium on Security & Privacy (Oakland)"
+    type: proceedings
+  title: "Zerocash: Decentralized Anonymous Payments from Bitcoin"
+  type: article
+  url: "https://doi.org/10.1109/SP.2014.36"
+
+goldwasser1989:
+  author:
+    - Goldwasser, Shafi
+    - Micali, Silvio
+    - Rackoff, Charles
+  date: 1989
+  doi: "10.1137/0218012"
+  page-range: 186-208
+  parent:
+    issue: 1
+    title: "SIAM Journal on Computing"
+    type: periodical
+    volume: 18
+  title: "The Knowledge Complexity of Interactive Proof Systems"
+  type: article
+  url: "https://doi.org/10.1137/0218012"
+
+goldreich1991:
+  author:
+    - Goldreich, Oded
+    - Micali, Silvio
+    - Wigderson, Avi
+  date: 1991
+  doi: "10.1145/116825.116852"
+  page-range: 691-729
+  parent:
+    issue: 3
+    title: "Journal of the ACM"
+    type: periodical
+    volume: 38
+  title: "Proofs that Yield Nothing But Their Validity or All Languages in NP Have Zero-Knowledge Proof Systems"
+  type: article
+  url: "https://doi.org/10.1145/116825.116852"
+
+bitansky2012:
+  author:
+    - Bitansky, Nir
+    - Canetti, Ran
+    - Chiesa, Alessandro
+    - Tromer, Eran
+  date: 2012
+  doi: "10.1145/2090236.2090263"
+  page-range: 326-349
+  parent:
+    publisher: "ACM"
+    title: "Proceedings of the 3rd Innovations in Theoretical Computer Science Conference (ITCS)"
+    type: proceedings
+  title: "From Extractable Collision Resistance to Succinct Non-Interactive Arguments of Knowledge, and Back Again"
+  type: article
+  url: "https://doi.org/10.1145/2090236.2090263"
+
+gabizon2019plonk:
+  author:
+    - Gabizon, Ariel
+    - Williamson, Zachary J.
+    - Ciobotaru, Oana
+  date: 2019
+  parent:
+    title: "Cryptology ePrint Archive"
+    type: repository
+  serial-number: "2019/953"
+  title: "PLONK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge"
+  type: article
+  url: "https://eprint.iacr.org/2019/953"
+
+groth2018crs:
+  author:
+    - Groth, Jens
+    - Kohlweiss, Markulf
+    - Maller, Mary
+    - Meiklejohn, Sarah
+    - Miers, Ian
+  date: 2018
+  doi: "10.1007/978-3-319-96878-0_24"
+  page-range: 698-728
+  parent:
+    publisher: "Springer"
+    title: "Advances in Cryptology -- CRYPTO 2018"
+    type: proceedings
+  title: "Updatable and Universal Common Reference Strings with Applications to zk-SNARKs"
+  type: article
+  url: "https://doi.org/10.1007/978-3-319-96878-0_24"
+
+groth2016:
+  author: Groth, Jens
+  date: 2016
+  doi: "10.1007/978-3-662-49896-5_11"
+  page-range: 305-326
+  parent:
+    publisher: "Springer"
+    title: "Advances in Cryptology — EUROCRYPT 2016, Part II"
+    type: proceedings
+  title: "On the Size of Pairing-Based Non-interactive Arguments"
+  type: article
+  url: "https://doi.org/10.1007/978-3-662-49896-5_11"
+
+babel2023:
+  author:
+    - Babel, Matthias
+    - Sedlmeir, Johannes
+  date: 2023
+  doi: "10.48550/arxiv.2301.00823"
+  parent:
+    title: "arXiv"
+    type: repository
+  title: "Bringing data minimization to digital wallets at scale with general-purpose zero-knowledge proofs"
+  type: article
+  url: "https://doi.org/10.48550/arxiv.2301.00823"
+
+selfxyz:
+  author: "Self"
+  title: "Self: Privacy-Preserving Identity Protocol"
+  type: repository
+  url: "https://github.com/selfxyz/self"
+
+google-age-zkp:
+  author: Stapelberg, Alan
+  date: 2025-07-03
+  publisher: Google
+  title: "Opening up Zero-Knowledge Proof technology to promote privacy in age assurance"
+  type: article
+  url: "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/"
+
+brands2000:
+  author: Brands, Stefan
+  date: 2000
+  doi: "10.7551/mitpress/5931.001.0001"
+  publisher: "The MIT Press"
+  title: "Rethinking Public Key Infrastructures and Digital Certificates"
+  type: book
+  url: "https://doi.org/10.7551/mitpress/5931.001.0001"
+
+camenisch2001:
+  author:
+    - Camenisch, Jan
+    - Lysyanskaya, Anna
+  date: 2001
+  doi: "10.1007/3-540-44987-6_7"
+  page-range: 93-118
+  parent:
+    publisher: "Springer Berlin Heidelberg"
+    title: "Lecture Notes in Computer Science"
+    type: proceedings
+  title: "An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation"
+  type: article
+  url: "https://doi.org/10.1007/3-540-44987-6_7"
+
+quisquater1990:
+  author:
+    - Quisquater, Jean-Jacques
+    - Quisquater, Myriam
+    - Quisquater, Muriel
+    - Quisquater, Michaël
+    - Guillou, Louis
+    - Guillou, Marie Annick
+    - Guillou, Gaïd
+    - Guillou, Anna
+    - Guillou, Gwenolé
+    - Guillou, Soazig
+    - Berson, Thomas A.
+  date: 1990
+  doi: "10.1007/0-387-34805-0_60"
+  page-range: 628-631
+  parent:
+    publisher: "Springer New York"
+    title: "Advances in Cryptology — CRYPTO '89"
+    type: proceedings
+  title: "How to Explain Zero-Knowledge Protocols to Your Children"
+  type: article
+  url: "https://doi.org/10.1007/0-387-34805-0_60"
+
+parno2013pinocchio:
+  author:
+    - Parno, Bryan
+    - Howell, Jon
+    - Gentry, Craig
+    - Raykova, Mariana
+  date: 2013
+  doi: "10.1109/SP.2013.47"
+  page-range: 238-252
+  parent:
+    publisher: "IEEE"
+    title: "Proceedings of the 2013 IEEE Symposium on Security and Privacy (S&P)"
+    type: proceedings
+  title: "Pinocchio: Nearly Practical Verifiable Computation"
+  type: article
+  url: "https://doi.org/10.1109/SP.2013.47"
+
+bensasson2013snarksc:
+  author:
+    - Ben-Sasson, Eli
+    - Chiesa, Alessandro
+    - Genkin, Daniel
+    - Tromer, Eran
+    - Virza, Madars
+  date: 2013
+  doi: "10.1007/978-3-642-40084-1_6"
+  page-range: 90-108
+  parent:
+    publisher: "Springer"
+    title: "Advances in Cryptology — CRYPTO 2013, Part II"
+    type: proceedings
+  title: "SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge"
+  type: article
+  url: "https://eprint.iacr.org/2013/507"
+
+wu2018dizk:
+  author:
+    - Wu, Howard
+    - Zheng, Wenting
+    - Chiesa, Alessandro
+    - Popa, Raluca Ada
+    - Stoica, Ion
+  date: 2018
+  page-range: 675-692
+  parent:
+    publisher: "USENIX Association"
+    title: "27th USENIX Security Symposium (USENIX Security 18)"
+    type: proceedings
+  title: "DIZK: A Distributed Zero Knowledge Proof System"
+  type: article
+  url: "https://www.usenix.org/conference/usenixsecurity18/presentation/wu"
+
+xie2022zkbridge:
+  author:
+    - Xie, Tiancheng
+    - Zhang, Jiaheng
+    - Cheng, Zerui
+    - Zhang, Fan
+    - Zhang, Yupeng
+    - Jia, Yongzheng
+    - Boneh, Dan
+    - Song, Dawn
+  date: 2022
+  doi: "10.1145/3548606.3560652"
+  page-range: 3003-3017
+  parent:
+    publisher: "ACM"
+    title: "Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security"
+    type: proceedings
+  title: "zkBridge: Trustless Cross-chain Bridges Made Practical"
+  type: article
+  url: "https://doi.org/10.1145/3548606.3560652"
+
+liu2024pianist:
+  author:
+    - Liu, Tianyi
+    - Xie, Tiancheng
+    - Zhang, Jiaheng
+    - Song, Dawn
+    - Zhang, Yupeng
+  date: 2024
+  doi: "10.1109/SP54263.2024.00035"
+  page-range: 1777-1793
+  parent:
+    publisher: "IEEE"
+    title: "Proceedings of the 2024 IEEE Symposium on Security and Privacy"
+    type: proceedings
+  title: "Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs"
+  type: article
+  url: "https://doi.org/10.1109/SP54263.2024.00035"
+
+rosenberg2024hekaton:
+  author:
+    - Rosenberg, Michael
+    - Mopuri, Tushar
+    - Hafezi, Hossein
+    - Miers, Ian
+    - Mishra, Pratyush
+  date: 2024
+  doi: "10.1145/3658644.3690282"
+  page-range: 929-940
+  parent:
+    publisher: "ACM"
+    title: "Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security"
+    type: proceedings
+  title: "Hekaton: Horizontally-Scalable zkSNARKs via Proof Aggregation"
+  type: article
+  url: "https://eprint.iacr.org/2024/1208"
+
+li2026soloist:
+  author:
+    - Li, Weihan
+    - Zhang, Zongyang
+    - Li, Yun
+    - Zhu, Pengfei
+    - Hong, Cheng
+    - Liu, Jianwei
+  date: 2026
+  doi: "10.1007/978-3-032-25336-1_3"
+  page-range: 63-94
+  parent:
+    publisher: "Springer"
+    title: "Advances in Cryptology — EUROCRYPT 2026, Part VII"
+    type: proceedings
+  title: "Soloist: Distributed SNARK for R1CS with Constant Proof Size"
+  type: article
+  url: "https://doi.org/10.1007/978-3-032-25336-1_3"
+
+wang2026cirrus:
+  author:
+    - Wang, Wenhao
+    - Shi, Fangyan
+    - Vilardell, Dani
+    - Zhang, Fan
+  date: 2026
+  doi: "10.14722/ndss.2026.240668"
+  parent:
+    publisher: "The Internet Society"
+    title: "Proceedings of the 2026 Network and Distributed System Security Symposium"
+    type: proceedings
+  title: "Cirrus: Performant and Accountable Distributed SNARK"
+  type: article
+  url: "https://doi.org/10.14722/ndss.2026.240668"
+
+yu2026hyperfond:
+  author:
+    - Yu, Yuanzhuo
+    - Liu, Mengling
+    - Zhang, Yuncong
+    - Ma, Tianyi
+    - Sun, Shi-Feng
+    - Au, Man Ho
+    - Gu, Dawu
+  date: 2026
+  doi: "10.1145/3779208.3805973"
+  page-range: 869-885
+  parent:
+    publisher: "ACM"
+    title: "Proceedings of the 21st ACM ASIA Conference on Computer and Communications Security (ASIA CCS 2026)"
+    type: proceedings
+  title: "HyperFond: A Transparent and Post-Quantum Distributed SNARK with Polylogarithmic Communication"
+  type: article
+  url: "https://doi.org/10.1145/3779208.3805973"
+
+ozdemir2022collaborative:
+  author:
+    - Ozdemir, Alex
+    - Boneh, Dan
+  date: 2022
+  page-range: 4291-4308
+  parent:
+    publisher: "USENIX Association"
+    title: "31st USENIX Security Symposium (USENIX Security 22)"
+    type: proceedings
+  title: "Experimenting with Collaborative zk-SNARKs: Zero-Knowledge Proofs for Distributed Secrets"
+  type: article
+  url: "https://www.usenix.org/conference/usenixsecurity22/presentation/ozdemir"
+
+baweja2026scribe:
+  author:
+    - Baweja, Anubhav
+    - Mishra, Pratyush
+    - Mopuri, Tushar
+    - Newatia, Karan
+    - Wang, Steve
+  date: 2026
+  parent:
+    publisher: "USENIX Association"
+    title: "35th USENIX Security Symposium (USENIX Security 26)"
+    type: proceedings
+  title: "Scribe: Low-memory SNARKs via Read-Write Streaming"
+  type: article
+  url: "https://www.usenix.org/conference/usenixsecurity26/presentation/baweja"
+
+pappas2024sparrow:
+  author:
+    - Pappas, Christodoulos
+    - Papadopoulos, Dimitrios
+  date: 2024
+  parent:
+    title: "Cryptology ePrint Archive"
+    type: repository
+  serial-number: "2024/1631"
+  title: "Sparrow: Space-Efficient zkSNARK for Data-Parallel Circuits and Applications to Zero-Knowledge Decision Trees"
+  type: article
+  url: "https://eprint.iacr.org/2024/1631"
+
+chiesa2010pcd:
+  author:
+    - Chiesa, Alessandro
+    - Tromer, Eran
+  date: 2010
+  page-range: 310-331
+  parent:
+    publisher: "Tsinghua University Press"
+    title: "Proceedings of the 1st Symposium on Innovations in Computer Science (ICS 2010)"
+    type: proceedings
+  title: "Proof-Carrying Data and Hearsay Arguments from Signature Cards"
+  type: article
+  url: "https://people.eecs.berkeley.edu/~alexch/docs/CT10.pdf"
+
+bitansky2013pcd:
+  author:
+    - Bitansky, Nir
+    - Canetti, Ran
+    - Chiesa, Alessandro
+    - Tromer, Eran
+  date: 2013
+  doi: "10.1145/2488608.2488623"
+  page-range: 111-120
+  parent:
+    publisher: "ACM"
+    title: "Proceedings of the 45th Annual ACM Symposium on Theory of Computing (STOC 2013)"
+    type: proceedings
+  title: "Recursive Composition and Bootstrapping for SNARKs and Proof-Carrying Data"
+  type: article
+  url: "https://doi.org/10.1145/2488608.2488623"
+
+chiesa2015cluster:
+  author:
+    - Chiesa, Alessandro
+    - Tromer, Eran
+    - Virza, Madars
+  date: 2015
+  doi: "10.1007/978-3-662-46803-6_13"
+  page-range: 371-403
+  parent:
+    publisher: "Springer"
+    title: "Advances in Cryptology — EUROCRYPT 2015, Part II"
+    type: proceedings
+  title: "Cluster Computing in Zero Knowledge"
+  type: article
+  url: "https://doi.org/10.1007/978-3-662-46803-6_13"
+
+kothapalli2022nova:
+  author:
+    - Kothapalli, Abhiram
+    - Setty, Srinath
+    - Tzialla, Ioanna
+  date: 2022
+  doi: "10.1007/978-3-031-15985-5_13"
+  page-range: 359-388
+  parent:
+    publisher: "Springer"
+    title: "Advances in Cryptology — CRYPTO 2022"
+    type: proceedings
+  title: "Nova: Recursive Zero-Knowledge Arguments from Folding Schemes"
+  type: article
+  url: "https://eprint.iacr.org/2021/370"
+
+nguyen2024mangrove:
+  author:
+    - Nguyen, Wilson
+    - Datta, Trisha
+    - Chen, Binyi
+    - Tyagi, Nirvan
+    - Boneh, Dan
+  date: 2024
+  doi: "10.1007/978-3-031-68403-6_10"
+  page-range: 308-344
+  parent:
+    publisher: "Springer"
+    title: "Advances in Cryptology — CRYPTO 2024, Part X"
+    type: proceedings
+  title: "Mangrove: A Scalable Framework for Folding-based SNARKs"
+  type: article
+  url: "https://eprint.iacr.org/2024/416"
+
+gailly2022snarkpack:
+  author:
+    - Gailly, Nicolas
+    - Maller, Mary
+    - Nitulescu, Anca
+  date: 2022
+  doi: "10.1007/978-3-031-18283-9_10"
+  page-range: 203-229
+  parent:
+    publisher: "Springer"
+    title: "Financial Cryptography and Data Security 2022"
+    type: proceedings
+  title: "SnarkPack: Practical SNARK Aggregation"
+  type: article
+  url: "https://eprint.iacr.org/2021/529"
+
+campanelli2019legosnark:
+  author:
+    - Campanelli, Matteo
+    - Fiore, Dario
+    - Querol, Anaïs
+  date: 2019
+  doi: "10.1145/3319535.3339820"
+  page-range: 2075-2092
+  parent:
+    publisher: "ACM"
+    title: "Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security"
+    type: proceedings
+  title: "LegoSNARK: Modular Design and Composition of Succinct Zero-Knowledge Proofs"
+  type: article
+  url: "https://eprint.iacr.org/2019/142"
+
+zhu2026lapathzk:
+  author:
+    - Zhu, Jinwei
+    - Bai, Shuangjie
+    - Hu, Xiaoming
+    - Zhou, Hao
+    - Yang, Geng
+  date: 2026
+  doi: "10.1016/j.ins.2026.123761"
+  serial-number: "123761"
+  parent:
+    title: "Information Sciences"
+    type: periodical
+    volume: 755
+  title: "LaPathZK: Parallel Threshold Path zk-SNARK Leveraging High-Dimensional Lattices"
+  type: article
+  url: "https://doi.org/10.1016/j.ins.2026.123761"
+
+blum1986:
+  author: Blum, Manuel
+  date: 1986
+  page-range: 1444-1451
+  parent:
+    title: "Proceedings of the International Congress of Mathematicians"
+    type: proceedings
+  title: "How to Prove a Theorem So No One Else Can Claim It"
+  type: article
+  url: "https://www.mathunion.org/fileadmin/ICM/Proceedings/ICM1986.2/ICM1986.2.ocr.pdf"
+
+igari2026physicalzkp:
+  author:
+    - Igari, Ren
+    - Odaka, Shun
+    - Komano, Yuichi
+    - Mizuki, Takaaki
+  date: 2026-03-26
+  doi: "10.1587/transfun.2025DMP0010"
+  parent:
+    title: "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences (advance online publication)"
+    type: periodical
+  title: "Efficient Physical ZKP Protocols for Hamiltonian Cycle Problem and Traveling Salesman Problem"
+  type: article
+  url: "https://doi.org/10.1587/transfun.2025DMP0010"
+
+brassard1988:
+  author:
+    - Brassard, Gilles
+    - Chaum, David
+    - Crépeau, Claude
+  date: 1988
+  doi: "10.1016/0022-0000(88)90005-0"
+  page-range: 156-189
+  parent:
+    issue: 2
+    title: "Journal of Computer and System Sciences"
+    type: periodical
+    volume: 37
+  title: "Minimum Disclosure Proofs of Knowledge"
+  type: article
+  url: "https://doi.org/10.1016/0022-0000(88)90005-0"
+
+diffie1976:
+  author:
+    - Diffie, Whitfield
+    - Hellman, Martin E.
+  date: 1976
+  doi: "10.1109/TIT.1976.1055638"
+  page-range: 644-654
+  parent:
+    issue: 6
+    title: "IEEE Transactions on Information Theory"
+    type: periodical
+    volume: 22
+  title: "New Directions in Cryptography"
+  type: article
+  url: "https://doi.org/10.1109/TIT.1976.1055638"
+
+rivest1978:
+  author:
+    - Rivest, Ronald L.
+    - Shamir, Adi
+    - Adleman, Leonard
+  date: 1978
+  doi: "10.1145/359340.359342"
+  page-range: 120-126
+  parent:
+    issue: 2
+    title: "Communications of the ACM"
+    type: periodical
+    volume: 21
+  title: "A Method for Obtaining Digital Signatures and Public-Key Cryptosystems"
+  type: article
+  url: "https://doi.org/10.1145/359340.359342"
+
+fiat1986:
+  author:
+    - Fiat, Amos
+    - Shamir, Adi
+  date: 1986
+  doi: "10.1007/3-540-47721-7_12"
+  page-range: 186-194
+  parent:
+    publisher: "Springer Berlin Heidelberg"
+    title: "Advances in Cryptology — CRYPTO '86"
+    type: proceedings
+  title: "How to Prove Yourself: Practical Solutions to Identification and Signature Problems"
+  type: article
+  url: "https://doi.org/10.1007/3-540-47721-7_12"
+
+dantzig1954:
+  author:
+    - Dantzig, George
+    - Fulkerson, Ray
+    - Johnson, Selmer
+  date: 1954
+  doi: "10.1287/opre.2.4.393"
+  page-range: 393-410
+  parent:
+    issue: 4
+    title: "Journal of the Operations Research Society of America"
+    type: periodical
+    volume: 2
+  title: "Solution of a Large-Scale Traveling-Salesman Problem"
+  type: article
+  url: "https://doi.org/10.1287/opre.2.4.393"
+
+applegate2006:
+  author:
+    - Applegate, David L.
+    - Bixby, Robert E.
+    - Chvátal, Vašek
+    - Cook, William J.
+  date: 2006
+  isbn: "978-0-691-12993-8"
+  publisher: "Princeton University Press"
+  title: "The Traveling Salesman Problem: A Computational Study"
+  type: book
+
+gabizon2020:
+  author:
+    - Gabizon, Ariel
+    - Williamson, Zachary J.
+  date: 2020
+  parent:
+    title: "Cryptology ePrint Archive"
+    type: repository
+  serial-number: "2020/315"
+  title: "plookup: A Simplified Polynomial Protocol for Lookup Tables"
+  type: article
+  url: "https://eprint.iacr.org/2020/315"
+
+blum1991memory:
+  author:
+    - Blum, Manuel
+    - Evans, Will
+    - Gemmell, Peter
+    - Kannan, Sampath
+    - Naor, Moni
+  date: 1991
+  doi: "10.1109/SFCS.1991.185352"
+  page-range: 90-99
+  parent:
+    publisher: "IEEE Computer Society"
+    title: "Proceedings of the 32nd Annual Symposium on Foundations of Computer Science"
+    type: proceedings
+  title: "Checking the Correctness of Memories"
+  type: article
+  url: "https://doi.org/10.1109/SFCS.1991.185352"
+
+# KZG — constant-size polynomial/vector commitment; alternative to Merkle openings (§committed-matrix).
+kate2010:
+  author:
+    - Kate, Aniket
+    - Zaverucha, Gregory M.
+    - Goldberg, Ian
+  date: 2010
+  doi: "10.1007/978-3-642-17373-8_11"
+  page-range: 177-194
+  parent:
+    publisher: "Springer"
+    title: "Advances in Cryptology — ASIACRYPT 2010, Lecture Notes in Computer Science, vol. 6477"
+    type: proceedings
+  title: "Constant-Size Commitments to Polynomials and Their Applications"
+  type: article
+  url: "https://doi.org/10.1007/978-3-642-17373-8_11"
+
+# Verkle trees — Merkle-style tree built on vector commitments, giving constant-size openings.
+kuszmaul2018verkle:
+  author:
+    - Kuszmaul, John
+  date: 2018
+  parent:
+    publisher: "MIT PRIMES"
+    title: "MIT PRIMES Conference"
+    type: proceedings
+  title: "Verkle Trees"
+  type: article
+  url: "https://math.mit.edu/research/highschool/primes/materials/2018/Kuszmaul.pdf"
+
+# cq — cached-quotient committed-lookup argument; batches many table reads into one proof.
+eagen2022cq:
+  author:
+    - Eagen, Liam
+    - Fiore, Dario
+    - Gabizon, Ariel
+  date: 2022
+  parent:
+    title: "Cryptology ePrint Archive"
+    type: repository
+  serial-number: "2022/1763"
+  title: "cq: Cached Quotients for Fast Lookups"
+  type: article
+  url: "https://eprint.iacr.org/2022/1763"
+
+# Lasso — lookup argument; commits to only m+n field elements for m lookups into a size-n table (Eurocrypt 2024).
+setty2023lasso:
+  author:
+    - Setty, Srinath
+    - Thaler, Justin
+    - Wahby, Riad S.
+  date: 2023
+  parent:
+    title: "Cryptology ePrint Archive"
+    type: repository
+  serial-number: "2023/1216"
+  title: "Unlocking the Lookup Singularity with Lasso"
+  type: article
+  url: "https://eprint.iacr.org/2023/1216"
+
+  # Merkle commitments — binding an array to one short root (§2.3, sub:merkle).
+merkle1987:
+  author: Merkle, Ralph C.
+  date: 1987
+  doi: "10.1007/3-540-48184-2_32"
+  page-range: 369-378
+  parent:
+    publisher: "Springer"
+    title: "Advances in Cryptology — CRYPTO '87, Lecture Notes in Computer Science, vol. 293"
+    type: proceedings
+  title: "A Digital Signature Based on a Conventional Encryption Function"
+  type: article
+  url: "https://doi.org/10.1007/3-540-48184-2_32"
+
+zapico2022caulk:
+  author:
+    - Zapico, Arantxa
+    - Buterin, Vitalik
+    - Khovratovich, Dmitry
+    - Maller, Mary
+    - Nitulescu, Anca
+    - Simkin, Mark
+  date: 2022
+  parent:
+    title: "Cryptology ePrint Archive"
+    type: repository
+  serial-number: "2022/621"
+  title: "Caulk: Lookup Arguments in Sublinear Time"
+  type: article
+  url: "https://eprint.iacr.org/2022/621"
+
+# Pedersen commitment — cited in §2.3 (sub:commitments): the unconditional-hiding
+# / computational-binding (DLOG) alternative to the hash commitment.
+naor1991commitment:
+  author: Naor, Moni
+  date: 1991
+  doi: "10.1007/BF00196774"
+  page-range: 151-158
+  parent:
+    issue: 2
+    title: "Journal of Cryptology"
+    type: periodical
+    volume: 4
+  title: "Bit Commitment Using Pseudorandomness"
+  type: article
+  url: "https://doi.org/10.1007/BF00196774"
+
+pedersen1991:
+  author: Pedersen, Torben Pryds
+  date: 1991
+  doi: "10.1007/3-540-46766-1_9"
+  page-range: 129-140
+  parent:
+    publisher: "Springer"
+    title: "Advances in Cryptology — CRYPTO '91, Lecture Notes in Computer Science, vol. 576"
+    type: proceedings
+  title: "Non-Interactive and Information-Theoretic Secure Verifiable Secret Sharing"
+  type: article
+  url: "https://doi.org/10.1007/3-540-46766-1_9"
+
+bellare1992pok:
+  author:
+    - Bellare, Mihir
+    - Goldreich, Oded
+  date: 1992
+  doi: "10.1007/3-540-48071-4_28"
+  page-range: 390-420
+  parent:
+    publisher: "Springer"
+    title: "Advances in Cryptology — CRYPTO '92, Lecture Notes in Computer Science, vol. 740"
+    type: proceedings
+  title: "On Defining Proofs of Knowledge"
+  type: article
+  url: "https://doi.org/10.1007/3-540-48071-4_28"
+
+poseidon2:
+  author:
+    - Grassi, Lorenzo
+    - Khovratovich, Dmitry
+    - Schofnegger, Markus
+  date: 2023
+  doi: "10.1007/978-3-031-37679-5_8"
+  parent:
+    publisher: "Springer"
+    title: "Progress in Cryptology — AFRICACRYPT 2023"
+    type: proceedings
+  title: "Poseidon2: A Faster Version of the Poseidon Hash Function"
+  type: article
+  url: "https://eprint.iacr.org/2023/323"
+
+# Random-oracle model as a paradigm for cryptographic protocol design.
+bellare1993randomoracle:
+  author:
+    - Bellare, Mihir
+    - Rogaway, Phillip
+  date: 1993
+  doi: "10.1145/168588.168596"
+  page-range: 62-73
+  parent:
+    publisher: "Association for Computing Machinery"
+    title: "Proceedings of the 1st ACM Conference on Computer and Communications Security"
+    type: proceedings
+  title: "Random Oracles Are Practical: A Paradigm for Designing Efficient Protocols"
+  type: article
+  url: "https://doi.org/10.1145/168588.168596"
+
+# Hash-function security notions: preimage, second-preimage, and collision resistance.
+rogaway2004hash:
+  author:
+    - Rogaway, Phillip
+    - Shrimpton, Thomas
+  date: 2004
+  doi: "10.1007/978-3-540-25937-4_24"
+  page-range: 371-388
+  parent:
+    publisher: "Springer"
+    title: "Fast Software Encryption — FSE 2004, Lecture Notes in Computer Science, vol. 3017"
+    type: proceedings
+  title: "Cryptographic Hash-Function Basics: Definitions, Implications, and Separations for Preimage Resistance, Second-Preimage Resistance, and Collision Resistance"
+  type: article
+  url: "https://iacr.org/archive/fse2004/30170373/30170373.pdf"
+
+# General construction of commitments from collision-resistant hashing.
+halevi1996hashcommit:
+  author:
+    - Halevi, Shai
+    - Micali, Silvio
+  date: 1996
+  doi: "10.1007/3-540-68697-5_16"
+  page-range: 201-215
+  parent:
+    publisher: "Springer"
+    title: "Advances in Cryptology — CRYPTO '96, Lecture Notes in Computer Science, vol. 1109"
+    type: proceedings
+  title: "Practical and Provably-Secure Commitment Schemes from Collision-Free Hashing"
+  type: article
+  url: "https://people.csail.mit.edu/shaih/pubs/hm96.pdf"
+
+bowe2019halo:
+  author:
+    - Bowe, Sean
+    - Grigg, Jack
+    - Hopwood, Daira
+  date: 2019
+  parent:
+    title: "Cryptology ePrint Archive"
+    type: repository
+  serial-number: "2019/1021"
+  title: "Halo: Recursive Proof Composition without a Trusted Setup"
+  type: article
+  url: "https://eprint.iacr.org/2019/1021"
+
+noir2026:
+  author: "Noir Contributors"
+  date: 2026
+  title: "Noir, version 1.0.0-beta.20"
+  type: repository
+  url: "https://github.com/noir-lang/noir/releases/tag/v1.0.0-beta.20"
+
+barretenberg2026:
+  author: "Aztec Labs"
+  date: 2026
+  title: "Barretenberg, version 5.0.0-nightly.20260324"
+  type: repository
+  url: "https://github.com/AztecProtocol/aztec-packages/tree/v5.0.0-nightly.20260324/barretenberg"
+
+zktsp2026:
+  author: "Callegari, Leonardo"
+  title: "ZK-TSP architectures"
+  type: repository
+  url: "https://github.com/lcalllegari1/zk-tsp"
